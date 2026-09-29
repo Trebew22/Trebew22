@@ -22,6 +22,10 @@ Most of my recent work lives in private repositories, so the contribution graph 
 
 ### Public projects
 
+**[TerraPlanner](https://www.terraplanner.org/)** - geospatial planning application built at TerraLAB (UFOP), where I led the backend team. First public release coming soon.
+
+### Public repositorie
+
 **[NutriLab](https://github.com/Trebew22/NutriLab)** - management system for nutritionists, built with Django: user registration and authentication with email activation, patient records and meal plans.
 
 ### Contact
