@@ -1,16 +1,29 @@
-## Hi there 👋
+## Webert Rodrigues
 
-<!--
-**Trebew22/Trebew22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend developer. I build services at Hexágono Engenharia and do undergraduate research at Instituto Tecnológico Vale, while finishing Control and Automation Engineering at UFOP.
 
-Here are some ideas to get you started:
+### Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Backend** - Python (FastAPI), Ruby on Rails, Node.js (NestJS), REST APIs, microservices
+
+**Data** - PostgreSQL, MySQL, relational modeling and query optimization
+
+**Infra** - Docker, Linux, Git, CI/CD
+
+**Robotics** - C++, ROS 2, real-time video over WebRTC
+
+### What I have been working on
+
+At Hexágono Engenharia I maintain backend services in a microservices architecture, covering data modeling, authentication and deployment, and I am building a new service in Ruby on Rails on top of that same architecture. The rewrite I am most proud of took a calculation routine from about an hour down to a few seconds.
+
+At TerraLAB (UFOP) I led the backend team, ran code reviews and designed the reusable automated test suite the team adopted.
+
+Most of my recent work lives in private repositories, so the contribution graph says more than the public repo list.
+
+### Public projects
+
+**[NutriLab](https://github.com/Trebew22/NutriLab)** - management system for nutritionists, built with Django: user registration and authentication with email activation, patient records and meal plans.
+
+### Contact
+
+[LinkedIn](https://www.linkedin.com/in/webert-meira-rodrigues) | welber.meira22@gmail.com
